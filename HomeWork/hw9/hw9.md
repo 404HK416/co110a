@@ -20,7 +20,7 @@ CHIP Memory {
 ```
 <img src="hw9-1.jpg"/>
 ### 2.Computer
-```{r}
+```
 CHIP Computer {
 
     IN reset;
