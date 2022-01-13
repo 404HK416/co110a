@@ -63,3 +63,4 @@ CHIP ALU {
    
 }
 ```
+<img src="hw4.jpg"/>
