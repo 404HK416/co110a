@@ -1,3 +1,7 @@
+## 電路參考
+課本及[官方網站](https://www.nand2tetris.org/course)
+
+
 [HW1](https://github.com/404HK416/co110a/blob/master/HomeWork/hw1/hw1.md)
 
 [HW2](https://github.com/404HK416/co110a/blob/master/HomeWork/hw2/hw2.md)
