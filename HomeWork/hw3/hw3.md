@@ -95,3 +95,4 @@ CHIP Inc16 {
     HalfAdder(a=in[15],b=carry15,sum=out[15]);
 }
 ```
+<img src="hw3.jpg" /> 
