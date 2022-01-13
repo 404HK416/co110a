@@ -210,3 +210,5 @@ CHIP DMux8Way {
     DMux4Way(in=DmuxIn2,sel[0]=sel[0],sel[1]=sel[1],a=e,b=f,c=g,d=h);
 }
 ```
+<img src="hw2-1.jpg"/>
+<img src="hw2-2.jpg"/>
