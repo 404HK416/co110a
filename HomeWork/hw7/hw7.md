@@ -35,7 +35,7 @@ D;JNE
 @21 //卡迴圈
 0;JMP
 ```
-<img src="hw7-1.PNG"/> 
+<img src="hw7-1.jpg"/> 
 
 ### 2.full
 ```{r}
@@ -88,4 +88,4 @@ M=-1
 @18
 0;JMP       //開始下次迴圈
 ```
-<img src="hw7-2.PNG/> 
+<img src="hw7-2.jpg/> 
