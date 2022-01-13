@@ -31,6 +31,5 @@ CHIP Computer {
     CPU(inM=inM,instruction=instruction,reset=reset,addressM=addressM,writeM=writeM,outM=outM,pc=pc);
     Memory(in=outM,address=addressM,load=writeM,out=inM);
 }
-
 ```
 <img src="hw9-2.jpg"/>
