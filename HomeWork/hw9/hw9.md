@@ -18,6 +18,7 @@ CHIP Memory {
     Mux16(a=outRam,b=outSK,sel=address[14],out=out);
 }
 ```
+<img src="hw9-1.jpg"/>
 ### 2.Computer
 ```{r}
 CHIP Computer {
@@ -32,3 +33,4 @@ CHIP Computer {
 }
 
 ```
+<img src="hw9-2.jpg"/>
