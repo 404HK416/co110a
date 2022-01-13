@@ -111,3 +111,4 @@ CHIP DMux {
     And(a=in,b=sel,out=b);
 }
 ```
+<img src="hw1.jpg"/>
